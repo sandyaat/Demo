@@ -1,2 +1,5 @@
-package org.example.BuilderPattern;public class Student {
+package org.example.BuilderPattern;
+
+public class Student {
+    public String name;
 }
